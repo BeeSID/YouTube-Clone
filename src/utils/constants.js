@@ -16,7 +16,7 @@ export const logo = 'https://www.freepnglogos.com/uploads/youtube-logo-hd-8.png'
 
 export const categories = [
   { name: 'New', icon: <HomeIcon />, },
-  { name: 'Development', icon: <CodeIcon />, },
+  { name: 'Web Development', icon: <CodeIcon />, },
   { name: 'Coding', icon: <CodeIcon />, },
   { name: 'ReactJS', icon: <CodeIcon />, },
   { name: 'NextJS', icon: <CodeIcon />, },
@@ -36,7 +36,7 @@ export const categories = [
 
 export const demoThumbnailUrl = 'https://i.ibb.co/G2L2Gwp/API-Course.png';
 export const demoChannelUrl = '/channel/UCmXmlB4-HJytD7wek0Uo97A';
-export const demoVideoUrl = '/video/GDa8kZLNhJ4';
-export const demoChannelTitle = 'JavaScript Mastery';
-export const demoVideoTitle = 'Build and Deploy 5 JavaScript & React API Projects in 10 Hours - Full Course | RapidAPI';
+export const demoVideoUrl = '/video/Tn6-PIqc4UM';
+export const demoChannelTitle = 'Welcome to YouTube Clone';
+export const demoVideoTitle = 'Build and Deploy React';
 export const demoProfilePicture = 'http://dergipark.org.tr/assets/app/images/buddy_sample.png'
